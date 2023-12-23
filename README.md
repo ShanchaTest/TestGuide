@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://sm.ms/image/gUXkOaj23IeY9ib" target="_blank"><img src="https://s2.loli.net/2023/12/23/gUXkOaj23IeY9ib.png" ></a>
-  <a href="https://sm.ms/image/IzRlCdxE5aqvb84" target="_blank"><img src="https://s2.loli.net/2021/12/11/IzRlCdxE5aqvb84.png" ></a>
+<a href="https://sm.ms/image/iQIKxCaH93rJztV" target="_blank"><img src="https://s2.loli.net/2023/12/23/iQIKxCaH93rJztV.gif" ></a>
 </p>
 
 
@@ -344,7 +344,6 @@
 
 ## 视频资源
 
-- [程序员臻叔](https://space.bilibili.com/382166537) - B站上测试开发领域的小UP主
 - [Python移动自动化测试面试](https://coding.imooc.com/class/182.html) - 慕课网无线测试面试
 
 ## 学习路线
