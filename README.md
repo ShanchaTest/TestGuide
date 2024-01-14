@@ -2,7 +2,7 @@
 
 <p>
 <a href="https://sm.ms/image/gUXkOaj23IeY9ib" target="_blank"><img src="https://s2.loli.net/2023/12/23/gUXkOaj23IeY9ib.png" ></a>
-<a href="https://sm.ms/image/iQIKxCaH93rJztV" target="_blank"><img src="https://img-blog.csdnimg.cn/direct/414d71f4efb444a0adca959e3baf3fdf.png" ></a>
+
 </p>
 
 
