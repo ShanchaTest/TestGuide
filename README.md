@@ -10,7 +10,15 @@
 
 软件测试各类资源清单，包括测试工具、测试框架、学习资源和测试网站。
 - [测试学习与成长路线](#测试成长路线)
-
+  - [测试基础](#测试基础)
+  - [自动化测试](#自动化测试)
+  - [web自动化](#web自动化)
+  - [接口协议与抓包](#接口协议与抓包)
+  - [接口测试](#接口测试)
+  - [性能与负载测试](#性能与负载测试)
+  - [容器与Docker技术](#容器与Docker技术)
+  - [持续集成与持续交付](#持续集成与持续交付)
+  - [测试平台与质量管理](#测试平台与质量管理)
 
 - [测试工具](#测试工具)
   - [抓包工具](#抓包工具)
@@ -50,9 +58,55 @@
 ---
 # 测试成长路线
 
-*测试基础*
+## 测试基础
+* [测试基础流程模型](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247493219&idx=1&sn=dd6ef48d46583512fcc62b2c25eecabb&chksm=fc6727ffcb10aee96201970486acd7e2453908d1f04078cf5d1e333137f316a27d5e7bfe25a0#rd) - 阐明测试概念、测试基本原则、测试流程
+* [常见的测试模型](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247493223&idx=1&sn=906646916e11fd4d5d2200a37c406b3e&chksm=fc6727fbcb10aeed196d19483e664712fbcc61cf7ae9bec4b1b92fddc6668cd90399c46637ec#rd) - 测试模型，及其使用场景
+* [测试技术体系](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247493430&idx=1&sn=4f1fa404ccf08d460929ee9da93f41a2&chksm=fc6726aacb10afbc2b4e4575b5aa9edbcd205b8ebcf176eb0b0b28ac4ce2a7599a37ad7b9fd2#rd) - 测试如何分类，以及测试体系有哪些种类及其组成内容
+* [多维度测试平台/工具](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247493430&idx=1&sn=4f1fa404ccf08d460929ee9da93f41a2&chksm=fc6726aacb10afbc2b4e4575b5aa9edbcd205b8ebcf176eb0b0b28ac4ce2a7599a37ad7b9fd2#rd) - 测试人常用的测试平台及测试工具推荐
+* [测试计划与测试方案](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494045&idx=1&sn=16f1f803f504233e2a0dc9d721546c68&chksm=fc672801cb10a117de350f13e4d8b0fe698ceec004a91e8d91c220447ba1e356e664bc264279#rd) - 测试计划与测试方案
+* [测试常用的 100 个shell指令](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494045&idx=1&sn=16f1f803f504233e2a0dc9d721546c68&chksm=fc672801cb10a117de350f13e4d8b0fe698ceec004a91e8d91c220447ba1e356e664bc264279#rd) - 测试在软件测试过程中常用的shell指令
+* [shell三剑客应用实例 - 日志分析](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494176&idx=1&sn=15506522604cf1302aa35157f8c1e412&chksm=fc672bbccb10a2aa46748c91dafca78f552a592225e97365f7492d9aec726f46ba7c99769c1a#rd) - 使用shell三剑客对nginx日志进行分析处理
+* [python基础语法入门](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494208&idx=1&sn=d31dcc95385e12e9e2840b81b3b094e5&chksm=fc672bdccb10a2ca0997d774caf603e8e3d1b168576dcd9eb3501445a701099bd0322721ec63#rd) - 测试常用语言python语法入门
+* [Java基础入门](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494316&idx=1&sn=ade067f6c4b14491408e93ebd3e0e6f3&chksm=fc672b30cb10a2266d3ff7ae41bfe10a55de3e2b469e8a22dc719c964df9791280e6331a5812#rd) - 测试常用语言Java语法入门
 
-*[测试基础流程模型](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247493219&idx=1&sn=dd6ef48d46583512fcc62b2c25eecabb&chksm=fc6727ffcb10aee96201970486acd7e2453908d1f04078cf5d1e333137f316a27d5e7bfe25a0#rd)
+## 自动化测试
+* [为什么要做自动化测试](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494417&idx=1&sn=25901f55ccd8e8dc8cb80beaf2ae66dd&chksm=fc672a8dcb10a39b061030fc8d533e9be3008a607fe929b5992c9a0ba484439b34bde7c210f0#rd) - 自动化测试的背景，及自动化测试会被应用在哪些项目中
+* [unittest测试框架](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494449&idx=1&sn=75dbab0b374474eed2dc42241c5d0064&chksm=fc672aadcb10a3bb9a2f6098f20303502e8bc49c642f3271a8871a9b0f2ba30fb81ac00b4acf#rd) - python自动化测试框架unittest的使用
+* [unittest其他三种加载方式](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494463&idx=1&sn=36fbb0e71a95a14738cbc047588ea813&chksm=fc672aa3cb10a3b50bbe0dae3644582df817318dbaa1ed1afb8a2e866e2089e606d5c3f7c8e5#rd) - unittest其他三种加载方式
+* [定制unittest测试报告](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494478&idx=1&sn=295f754ea0c5e00033687786fa29e882&chksm=fc672ad2cb10a3c4618b8575f5edb067dc2e0d71afcc0dbd81e5f78a4f82788f43540f765f00#rd) - unittest如何定制测试报告
+* [pytest测试框架的基本使用](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247494802&idx=1&sn=b27c25a55b8dda3d779b7bb2835a83f5&chksm=fc672d0ecb10a418823c15eef494dc2da88f064f4439b478116742e0ec0327d51c8a60e52534#rd) - python + pytest测试框架的基本使用
+* [pytest + allure定制报告](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495037&idx=1&sn=60bd89ee2244cc92d500b429ea900ddb&chksm=fc672ce1cb10a5f75909883b9e279bc3d07bd98c677cfa834c14eccafac28724d975ad5e6760#rd) - pytest + allure如何定制测试报告
+* [python数据驱动入门](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495241&idx=1&sn=63aa515d5a8bcc06710a31be0c9eb446&chksm=fc672fd5cb10a6c3d83e6981b6f976e1cc3e523bb9ad8e5fa74ce16e12c142f8945beccf759d#rd) - 数据驱动入门
+
+## web自动化
+* [web自动化测试框架：Selenium简介](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495565&idx=1&sn=77ea0a971946c0f64c4bf960606d0171&chksm=fc672e11cb10a707fd25dda112b699a4176dfe33400d6fed79d1ebd8e979f94b83776ee5b619#rd) - Selenium框架简介
+* [使用selenum ide录制测试用例](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495577&idx=1&sn=f9da8da28fe0861b71b00b2fcac1a6c4&chksm=fc672e05cb10a7135a928365e35df436c70bce82495c1976fce622c733bfef1c73c767b0a445#rd) - 使用Selenium录制第一个测试用例
+* [更新ing]
+* [更新ing]
+* [更新ing]
+
+## 接口协议与抓包
+* [自动化测试价值](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496090&idx=1&sn=377fbeb465a1f589aa19a2f228ec9ff8&chksm=fc673006cb10b910a0f67863cb847a37304b42426d4e91360f21fb846d4ba7fe146fdd9dc28f#rd) - 了解自动化测试的价值与背后意义
+* [更新ing]
+
+## 接口测试
+* [python + request接口测试入门](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496077&idx=1&sn=8e26c182252eda69ac55f5e13b84c5bd&chksm=fc673011cb10b90718c06ce49baa0341eb3721e83b1ef42379bdd461e2feb57c10bcb39d2c23#rd) - python + request接口测试入门
+* [更新ing]
+* [更新ing]
+* [更新ing]
+  
+## 性能与负载测试
+* [更新ing]
+
+## 容器与Docker技术
+* [更新ing]
+
+## 持续集成与持续交付
+* [更新ing]
+
+
+## 测试平台与质量管理
+* [更新ing]
 
 
 # 测试工具
