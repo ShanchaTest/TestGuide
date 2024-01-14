@@ -19,6 +19,9 @@
   - [容器与Docker技术](#容器与Docker技术)
   - [持续集成与持续交付](#持续集成与持续交付)
   - [测试平台与质量管理](#测试平台与质量管理)
+  - [测试面试合集](#测试面试合集)
+  - [面试官意图50例](#面试官意图50例)
+  
 
 - [测试工具](#测试工具)
   - [抓包工具](#抓包工具)
@@ -81,34 +84,43 @@
 ## web自动化
 * [web自动化测试框架：Selenium简介](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495565&idx=1&sn=77ea0a971946c0f64c4bf960606d0171&chksm=fc672e11cb10a707fd25dda112b699a4176dfe33400d6fed79d1ebd8e979f94b83776ee5b619#rd) - Selenium框架简介
 * [使用selenum ide录制测试用例](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495577&idx=1&sn=f9da8da28fe0861b71b00b2fcac1a6c4&chksm=fc672e05cb10a7135a928365e35df436c70bce82495c1976fce622c733bfef1c73c767b0a445#rd) - 使用Selenium录制第一个测试用例
-* [更新ing]
-* [更新ing]
-* [更新ing]
+* [持续更新ing]
+* [持续更新ing]
+* [持续更新ing]
 
 ## 接口协议与抓包
 * [自动化测试价值](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496090&idx=1&sn=377fbeb465a1f589aa19a2f228ec9ff8&chksm=fc673006cb10b910a0f67863cb847a37304b42426d4e91360f21fb846d4ba7fe146fdd9dc28f#rd) - 了解自动化测试的价值与背后意义
-* [更新ing]
+* [OSI模型与TCP/IP模型](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496340&idx=1&sn=dd9285e51677c2a5b1207dbf382a077a&chksm=fc673308cb10ba1ec68b234325a3ce67562bf07793a26a736728867b9d33c1bd84d85bb1b6ba#rd) - OSI与TCP/IP网络协议模型,基础中的基础
+* [持续更新ing]
 
 ## 接口测试
 * [python + request接口测试入门](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496077&idx=1&sn=8e26c182252eda69ac55f5e13b84c5bd&chksm=fc673011cb10b90718c06ce49baa0341eb3721e83b1ef42379bdd461e2feb57c10bcb39d2c23#rd) - python + request接口测试入门
-* [更新ing]
-* [更新ing]
-* [更新ing]
+* [持续更新ing]
+* [持续更新ing]
+* [持续更新ing]
   
 ## 性能与负载测试
-* [更新ing]
+* [持续更新ing]
 
 ## 容器与Docker技术
-* [更新ing]
+* [持续更新ing]
 
 ## 持续集成与持续交付
-* [更新ing]
+* [持续更新ing]
 
 
 ## 测试平台与质量管理
-* [更新ing]
+* [持续更新ing]
 
 
+## 测试面试合集
+* [那个拿了12个offer的人，自我介绍是这么写的](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496124&idx=1&sn=d84fcb6fa6b529f0d351d0cb6a1e8836&chksm=fc673020cb10b936ffe0662d2d2550f282ae6d2a65ac5fd1a2d26aee2b33b2e84d894882b93a#rd) - 一个好的自我介绍，帮你提高10%的通过率
+
+
+## 面试官意图50例
+* [开始的 5 道题，50%决定你的去留](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247495289&idx=1&sn=2bf7f6033a6de49aec949a597471ca3e&chksm=fc672fe5cb10a6f39dcc1f283fcfde17d996d7b8d0ddb6b2987611726b44c5844cce61aa880f#rd) - 
+* [持续更新ing]
+  
 # 测试工具
 
 ## 抓包工具
