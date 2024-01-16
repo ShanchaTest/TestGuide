@@ -9,6 +9,7 @@
 
 
 软件测试各类资源清单，包括测试工具、测试框架、学习资源和测试网站。
+*软件测试技能学习大纲*
 - [测试学习与成长路线](#测试成长路线)
   - [测试基础](#测试基础)
   - [自动化测试](#自动化测试)
@@ -92,6 +93,7 @@
 * [自动化测试价值](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496090&idx=1&sn=377fbeb465a1f589aa19a2f228ec9ff8&chksm=fc673006cb10b910a0f67863cb847a37304b42426d4e91360f21fb846d4ba7fe146fdd9dc28f#rd) - 了解自动化测试的价值与背后意义
 * [OSI模型与TCP/IP模型](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496340&idx=1&sn=dd9285e51677c2a5b1207dbf382a077a&chksm=fc673308cb10ba1ec68b234325a3ce67562bf07793a26a736728867b9d33c1bd84d85bb1b6ba#rd) - OSI与TCP/IP网络协议模型,基础中的基础
 * [TCP/UDP的基本实现](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496346&idx=1&sn=142bc6226fe3957750f8b5b0d0494ed0&chksm=fc673306cb10ba10dffa1e0b028abb9ab4b4dcc93d2e8ccc7568d489cade97f9927191524842#rd) - 使用Java实现TCP与UDP通信方式
+* [TCP三次握手与四次挥手，简要易懂](https://mp.weixin.qq.com/s?__biz=MzU2MjY5ODQ4Mw==&mid=2247496450&idx=1&sn=44f347b180e962b86f6f3432466fdf32&chksm=fc67329ecb10bb8839c5a522208e278b474f60d47a72f97db15a7959b90372c54c4b3ebc3e67#rd) - 简单易懂，结合实例和图解，阐述三次握手与四次挥手的过程
 * [持续更新ing]
 
 ## 接口测试
